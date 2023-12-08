@@ -3,8 +3,6 @@
 <body>
     <header align = "center">
     <ul>
-    <li><a href = "center.html">Главная</a></li>
-    <li><a>|</a></li>
     <li><a href = "states.html">Статьи</a></Li>
     <li><a>|</a></li>
     <li><a href = "info.html">Информация</a></li>
